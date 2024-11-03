@@ -1,6 +1,8 @@
-title	author	date	output
-HelloWorld
-Daniel Argoty
-2024-11-03
-html_document
-This is a markdown file
+---
+title: "HelloWorld"
+author: "Daniel Argoty"
+date: "2024-11-03"
+output: html_document
+---
+
+## This is a markdown file
