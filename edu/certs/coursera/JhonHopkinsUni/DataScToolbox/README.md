@@ -1,2 +1,2 @@
 # datasciencecoursera
-repositorio de prueba para  coursera
+repository for coursera course Data Scientist's Toolbox
